@@ -1,0 +1,23 @@
+{
+  "name": "responsiveweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "dependencies": {
+    "normalize.css": "^5.0.0",
+    "picturefill": "^3.0.2",
+    "jquery": "^1.12.4",
+    "owl.carousel": "^2.2.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
